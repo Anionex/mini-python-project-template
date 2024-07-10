@@ -1,3 +1,15 @@
+# newly added
+.venv/
+env/
+venv/
+tmp.*
+temp.*
+Untitled-1.*
+Scripts/
+Lib/
+Include/
+pyvenv.cfg
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
